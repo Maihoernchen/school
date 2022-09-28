@@ -21,7 +21,7 @@ echo '<!DOCTYPE html>
         <input type="submit" name="sb" value="Les Go">';
     require './HtmlElement.php';
     $obj = new HtmlElement($_POST);
-    $obj->render();
+    echo $obj->render();
     echo $_POST;
 echo '
     </form>

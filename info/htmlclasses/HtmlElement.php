@@ -1,14 +1,13 @@
 <?php 
 // extends TextElement 
     class HtmlElement {
-        public function __construct($el){
-            $this->name = $el;
+        private $name;
+
+        public function __construct($name){
+            $this->name = $name;
         }
         public function render(){
-            print_r('<'.$this->name.'>');
+            return('<'.$this->name.'>');
         }
     }
-    // $el is the name of the element
-    // $el = 'h1';
-    // $obj = new HtmlElement($el);
 ?>
