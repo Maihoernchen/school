@@ -1,5 +1,4 @@
-<?php
-echo '<!DOCTYPE html>
+<!DOCTYPE html>
 
 <html lang="en">
 
@@ -17,15 +16,16 @@ echo '<!DOCTYPE html>
 
 <body>
     <form method="POST">
-        <input id="element" name="element" value="hr">
-        <input type="submit" name="sb" value="Les Go">';
-    require './HtmlElement.php';
-    $obj = new HtmlElement($_POST);
-    echo $obj->render();
-    echo $_POST;
-echo '
+        <input id="element" name="element" value="<?php echo $_POST['element'] ?>">
+        <input type="submit" name="sb" value="Les Go">
+    <?php
+        require './HtmlElement.php';
+        $ret = $_POST['element'];
+        $obj = new HtmlElement($ret);
+        echo '<hr> das hab icke';
+        print_r($obj->render());
+    ?>
     </form>
 </body>
 
-</html>';
-?>
+</html>
