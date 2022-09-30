@@ -36,12 +36,6 @@
     class WithAttribute extends HtmlElement {
         protected $attributes = array();
 
-        public function __construct($attributes) {
-            foreach($attributes as $key => $val) {  
-                $this->attributes[] = $val;
-            }
-            var_dump($attributes);
-        }
         public function addAttribute($attribute) {
             $this->attributes = $attribute;
         }
@@ -53,4 +47,5 @@
             }
         }
     }
+    $ad = new WithAttribute($name);
 ?>
