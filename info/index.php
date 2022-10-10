@@ -21,7 +21,7 @@
     <?php
         require './HtmlElement.php';
         $ret = $_POST['element'];
-        $obj = new HtmlElement($ret);
+        $obj = new WithAttribute($ret);
         echo '<hr> das hab icke';
         print_r($obj->render());
     ?>

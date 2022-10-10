@@ -35,19 +35,41 @@
     }
     class WithAttribute extends HtmlElement {
         protected $attributes = array();
-
-        public function __construct($attributes) {
+        public function __construct($attributes,$name) {
             $this->attributes = $attributes;
+            $this->name = $name;
         }
         public function addAttribute($attribute) {
             $this->attributes = $attribute;
         }
         // incomplete
         public function render() {
+            $out = '';
+            $out .= '<'.$this->name;
             foreach($this->attributes as $x => $x_value) {
-                echo "Key=" . $x . ", Value=" . $x_value;
-                echo "<br>";
+                $out .= ' '.$x.'="'.$x_value.'"';
             }
+            $out .= '>';
+            return $out;
+        }
+    }
+    class WithContent extends WithAttribute {
+        protected $textelement;
+        public function __construct($attributes, $textelement, $name) {
+            $this->attributes = $attributes;
+            $this->textelement = $textelement;
+            $this->name = $name;
+        }
+        public function render(){
+            $out = '';
+            $out .= '<'.$this->name;
+            foreach($this->attributes as $x => $x_value) {
+                $out .= ' '.$x.'="'.$x_value.'"';
+            }
+            $out .= '>';
+            $out .= $this->textelement;
+            $out .= '</'.$this->name.'>';
+            return $out;
         }
     }
 ?>
