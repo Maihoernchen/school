@@ -1,6 +1,3 @@
-from msilib.schema import SelfReg
-
-
 class TextElement:
     __text = ""
     def __init__(self,text):
