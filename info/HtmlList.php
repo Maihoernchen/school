@@ -11,24 +11,29 @@
         function setListType($ordered){
             $this->ordered = $ordered;
         }
+        function shuffle(){
+            shuffle($this->list);
+        }
+        function render(){
+            if($this->ordered==FALSE){
+                return renderUL();
+            } else {
+                return renderOL();
+            }
+        }
         function renderUL(){
-            if($ordered==FALSE){
                 $cout = "<ul>";
                 foreach($this->list as $x => $x_value) {
                     $cout .= "<li>".$value."</li>";
                 }
                 $cout .= "</ul>";
                 return $cout;
-            }
         }
         function renderOL(){
-            if($ordered==TRUE){
                 $cout = "<ol>";
                 foreach($this->list as $x => $x_value) {
                     $cout .= "<li>".$value."</li>";
                 }
                 $cout .= "</ol>";
-                return $cout;
-            }
         }
     }
