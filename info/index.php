@@ -17,11 +17,14 @@
 <body>
     <form method="POST">
         <input id="element" name="element" value="<?php echo $_POST['element'] ?>">
+        <input id="el" name="el" value="<?php echo $rett ?>">
         <input type="submit" name="sb" value="Les Go">
     <?php
-        require './HtmlElement.php';
+        require './HtmlList.php';
         $ret = $_POST['element'];
-        $obj = new WithAttribute($ret);
+        $rett = array('duck','doubleduck','tripleduck');
+        $obj = new HtmlList($ret,$rett);
+        $obj->setListType('cl');
         echo '<hr> das hab icke';
         print_r($obj->render());
     ?>
