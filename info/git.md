@@ -33,3 +33,13 @@
 * bringt beim Install ein Befehl "git daemon" mit, welcher ein TCP-Git-Server startet
 * Port 9418
 * Git auf Github wird von GitHub Incorporated gehostet.
+
+---
+
+## Funktionen
+
+* hochladen von Dateien auf Cloud-service
+
+---
+
+## Lizenzen
