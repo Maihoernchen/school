@@ -8,4 +8,4 @@
 * Müssen moderne Darstellungen "verfälschen" um historisch präzise zu sein?
 	* Übertreibung zur korrekten Darstellung nach modernen Maßstäben
 	* Aufgabe des Theaters zu Überspitzung
-
+* Ist Verkürzung = Verfälschung?
