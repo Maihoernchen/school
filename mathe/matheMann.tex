@@ -1,0 +1,93 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{pgfplots}
+\def\doubleunderline#1{\underline{\underline{#1}}}
+
+\title{Arbeitsblatt}
+\author{A. Münch, E. Maihorn}
+\date{18th of January 2024}
+
+\begin{document}
+
+\maketitle
+
+\section{Aufgabe}
+
+Gegeben sind die Funktionen $ {f_a(x)} = \frac{e^x}{(e^x+a)^2}$ mit $ a \in \mathbb{R^+}$ und $ D_{f_a} = \mathbb{R}$.
+
+\subsection{}
+Untersuchen Sie das Grenzverhalten von $ f_a $ für $x->\pm \infty$.
+
+\[ \lim_{x\to\infty} f_a(x) = ... = 0\]
+\[ \lim_{x\to -\infty} f_a(x) = ... = 0\]
+
+\textbf{Ergänzen Sie die nötigen Zwischenschritte, um das Grenzverhalten zu erklären. Setzen Sie dazu die   Grenzwerte in die Formel ein.}
+
+\subsection{}
+Zeigen Sie, dass für die erste Ableitung $f'_a(x)$ gilt: $f'_a(x) = \frac{a-e^x}{a+e^x} \cdot f_a(x)$
+
+\[ Quotientenregel: y' = \frac{u'v-v'u}{v^2}\]
+\[ u=e^x \xrightarrow{} u' = e^x\]
+\[ v=(e^x+a)^2 \xrightarrow{} v'=2e^x(e^x+a)\]
+\[ f_a'(x) = \frac{e^x \cdot (e^x+a)^2-2e^{2x} \cdot (e^x+a)}{(e^x+a)^4}\]
+\[ = \frac{-2e^{2x}+e^x \cdot (e^x+a)}{(e^x+a)^3}\]
+\[ = \frac{e^x}{(e^x+a)^2} \cdot \frac{-2e^x+(e^x+a)}{(e^x+a)}\]
+\[ \doubleunderline {= f_a(x) \cdot \frac{a-e^x}{e^x+a}}\]
+
+\textbf{Finden Sie eine schnellere Lösung und arbeiten Sie diese vollständig, mit Zwischenüberschriften aus. Tipp: Die Quotientenregel: $\frac{u'v-v'u}{v^2} $ lässt sich zu $ \frac{\frac{u'v}{u}-v'}{v} \cdot \frac{u}{v}$ umstellen...} \\
+
+Ermitteln Sie ohne Verwendung von $f''_a(x)$, aber unter Nutzung des Vorzeichenwechselkriteriums, Art und Lage der relative Extrempunkte.
+\[Kontrollergebnis: x_E=ln(a)\]
+
+Extrempunkte finden: $f'_a(x)=0 $
+\[0=\frac{e^x}{(a+e^x)^2} \cdot \frac{a-e^x}{e^x+a}\]
+Für Nullstellenberechnung nur Zähler relevant $ \xrightarrow{} Z(x)=e^x(a-e^x) $
+\[ 0=e^x(a-e^x) \quad \quad \quad | \div e^x\]
+\[0 = a-e^x \quad \quad \quad | +e^x\]
+\[a=e^x \quad \quad \quad | ln()\] 
+\[ \doubleunderline{x=ln(a)}\]
+Vorzeichenwechsel mit Zähler Testen:
+
+\[Z(ln(a)-1)= e^{ln(a)-1} \cdot a - e^{2(ln(a)-1)}\]
+\[Z(ln(a)-1)= \frac{a}{e} \cdot a - \frac{a^2}{e^2} = 1-\frac{1}{e} > 0\]
+\[Z(ln(a)+1)= e^{ln(a)+1} \cdot a - e^{2(ln(a)+1)}\]
+\[Z(ln(a)+1)= ae \cdot a - a^2e^2 = 1-e < 0\]
+
+Aus dem Steigungswechsel positiv zu negativ ergibt sich: bei x=ln(a) befindet sich ein lokales Maximum.
+
+\textbf{Das Herausfinden der Nullstelle war aber nicht ganz sauber... Fügen Sie nötige Nachweise hinzu, um die Bestimmung der Extremstelle zu validieren.}
+
+\subsection{}
+
+Alle Extrempunkte liegen auf einer Ortskurve, ihr Graph sei $ G_k $.
+Bestimmen Sie die Funktionsgleichung der Ortskurve.
+\[Kontrollergebnis: k(x)=\frac{1}{4}e^{-x}\]
+
+\textbf{Gegeben ist $E (ln(a)|f_a(ln(a))) = E (ln(a)|\frac{1}{4a})$ sind die Koordinaten des Extrempunktes. Erstellen Sie die Ortsgleichung.}
+
+\subsection{}
+
+Für alle $ x \in \mathbb{R}$ gilt: $f_a(ln(a)+x)=f_a(ln(a)-x)$. (Dies müssen Sie nicht nachweisen.)
+Nennen Sie die geometrische Bedeutung dieser Gleichung für die Graphen $G_{f_a}$.
+
+\textbf{Tanya behauptet: "Das heißt, der Graph ist punktsymetrisch, zu seinem Extrempunkt!" Bewerten Sie Tanyas Aussage und verbessern Sie gegebenenfalls ihre Einschätzung.}
+
+\subsection{}
+
+Zeichnen Sie den Graphen $G_{f_a}$ für a=0.05 im Bereich $-6 \leq x \leq 2$. Verwenden Sie Ihre bisherigen Erkenntnisse, sowie weitere Funktionswerte aus dem Zeichenbereich. Ergänzen Sie Ihre Zeichnung durch die Ortskurve der Extrempunkte.
+
+\begin{tikzpicture}
+\begin{axis}
+\addplot[domain=-6:2, 
+    samples=100, 
+    color=red]{e^x/(e^x+0.05)^2};
+\end{axis}
+\end{tikzpicture}
+
+\textbf{Zeichnen Sie eine Ortskurve ein. Üben Sie Kritik an der Zeichnung. Was wird nicht beachtet? Was fehlt?}
+
+
+
+\end{document}
