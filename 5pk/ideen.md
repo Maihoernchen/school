@@ -3,7 +3,8 @@
 * Non-Stop
 * My shot 
 * (Sind die Songs mit am meisten Inhalt über Hamilton)
-
+* Erklären Warum!!
+* Nebenbei andere Szenen verwenden ist erlaubt.
 
 ### Fragenanpassung
 * Dramatische Darstellung / Heroisierung
@@ -17,4 +18,3 @@
 * Gibt es Meinungsverschiedenheiten unter den Quellen?
 * Jede moderne Darstellung von Geschichte ist "verfälscht", weil verkürtzt.
 * Ist Verkürzung = Verfälschung?
-
