@@ -61,7 +61,7 @@
 ---
 
 # Sicherheit und Effektivität
-
+	
 * diverse Stakeholder, Teammitglieder, Trainingsdaten
 * Tests + Risikoabschätzung
   * öffentlich zugänglich (transparent)
@@ -105,3 +105,4 @@
 ** Immer Beispiele!!! **
 **  mit Rechtsgebung international auseinandersetzen! **
 ** Methodentraining! **
+		
