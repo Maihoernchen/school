@@ -71,11 +71,23 @@
 
 ### Impact
 
+* organize your information
+	* you need your right hand man back
+	* taken over writing all his correspondence
+* protean creator of the coast guard
+* founder of the NY Post
 * financial system
+	* centralizing national credit and making american credit competetive
+	* unprecedented financial power, system he can shape
 * bankrupcy to prosperity
 * cabinets fractured into factions
 * doubled the size of the government
+* its up to hamilton (Eo1800)
 
+* reports were turned into acts for
+	* assumption of debt
+	* foundation of a national bank in NYC
+* financial and economic plans were responsible for industry boom
 * liquidity provided funds for
 	* Purchase of Lousiana
 	* War of 1814
@@ -88,41 +100,96 @@
 	* charge of trading charter
 	* rich wife
 * rich as adult
+	* move uptown
 
 ### Reputation
 
+* nathaniel green and henry knox wanted to hire you
 * enemies destroyed his rep
+* distroy his reputation
 * death mourned
+* this immigrant isnt somebody we chose - senats opinion
 
 ### Political allies and enemies
 
 * Burr - friend to enemy
+	* Jefferson has beliefs burr has none
+	* amoral dangerous disgrace
+	* only stand for himself
 * Maddison - ally to enemy
 * Adams - enemy
+	* Sit down john
 * Jefferson - enemy
+	* see what I can do to him
 * Washington - friend
+	* right hand man
 	* dependant on
+	* must be nice to hav washington on your side
 
-### Competence
+### Competences
 
 * skill with a quill, I wrote my way out, Ive been reading n writing, talks for six hours, write like youre runnign out of time
+* looking like a man on a mission
+* honor
+* tolerance for pain
+* top notch brain
+* determined
+* worlds you keep creating and erasing in your mind
+* ingenuitive
+* fluent in french
+* tactically brilliant
+	* knows what to do in a trench
+* resiliant
+* virtuosity
+* quite the lawyer
 
 ### Vices
 
+* obnoxious
 * arrogant
 * loudmouth
+* never satisfied
+* determined
+* short-tempered
+* he primps and preens
 
 ### Habits
 
+* use press
 * pseudonymical writing
+* worn opinion on his sleeve
+
+### Modern Depiction
+
+* doenst get enough credit
+
+### Actions
+
+* stole brittish cannons
+* jefferson has my vote
+* wearing his glasses
+* aims his pistol at the sky
 
 ### Political Ideology / personal ambitions
 
 * freedom for all men
+* values beliefs
 * fighter for america
+	* wants to fight not write
+	* head full of fantasies of dying like a martyr
+	* fight until the war was won
 * revolutionary manumission abolitionist
-* wish there was a war
+* lets hatch a plot blacker
+* wish there was a war, join the revolution
+* may not live, gladly join fight
 * rise above my station
+* dont shoot people my son
+	* your mother cant take, you dont want this mans blood, shoot your pistol in the sky
 * couldve done so much more - concerning slavery
+* trying to do the best for the republic
+* never agreed with jefferson once
+* wrote notes at the beginning of a song someone will sing for me
+* america you sent for me, let me make a difference
 
 * would willingly risk my life though not my character to exalt my station
+* did help laurens in the creation of an all black battalion
