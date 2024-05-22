@@ -24,7 +24,7 @@
 1. AH [Enemys destroyed his rep, charge of a trading charter]
 2. AB [wish there was a war, join the revolution]
 3. MS [revolutionary manumission abolitionist, lets hatch a plot blacker]
-3. 1. RU(MS) [scrath that + following, I'm laughing in the face + following]
+3. 1. RU(MS) [scratch that + following, I'm laughing in the face + following]
 4. SoT [may not live, join the fight]
 5. SS //
 6. FR [He'd had unravel + following, rather divisive than indecisive]
@@ -66,13 +66,15 @@
 42. EoE [hes missing in action, its up to hamilton, jefferson has my vote, never agreed with jefferson once, jefferson has beliefs, burr has none]
 43. YOS [arrogant, to keep me from winning, the only common thread has been your disrespect, call me amoral a dangerous disgrace, I have always worn it on my sleeve, trying to do the best for our republic, you only stand for yourself]
 44. BoWaBoW //
-45. WWWE [nathaniel pendleton, like a man on a mission, hamilton was wearing his glasses, I wrote the notes at the beginning of a song someone will sing for me, america you great unfinished symphony you sent for me, you let me make a difference, he aims his pistol at the sky, I hear wailing in the streets]
+45. WWWE [like a man on a mission, hamilton was wearing his glasses, I wrote the notes at the beginning of a song someone will sing for me, america you great unfinished symphony you sent for me, you let me make a difference, he aims his pistol at the sky, I hear wailing in the streets]
 46. WLWDWTYS [his financial system is a work of genius I couldnt undo it if i tried and I tried, he took our country from bankrupcy to prosperity, I hate to admit it but he doesnt get enough credit for all the credit he gave us, who keeps your name eliza, couldve done so much more]
 
 ### Impact
 
 * financial system
 * bankrupcy to prosperity
+* cabinets fractured into factions
+* doubled the size of the government
 
 * liquidity provided funds for
 	* Purchase of Lousiana
@@ -90,6 +92,7 @@
 ### Reputation
 
 * enemies destroyed his rep
+* death mourned
 
 ### Political allies and enemies
 
@@ -100,16 +103,26 @@
 * Washington - friend
 	* dependant on
 
-### Ambitions
-
-* wish there was a war
-
 ### Competence
+
+* skill with a quill, I wrote my way out, Ive been reading n writing, talks for six hours, write like youre runnign out of time
 
 ### Vices
 
-### Political Ideology
+* arrogant
+* loudmouth
+
+### Habits
+
+* pseudonymical writing
+
+### Political Ideology / personal ambitions
 
 * freedom for all men
 * fighter for america
+* revolutionary manumission abolitionist
 * wish there was a war
+* rise above my station
+* couldve done so much more - concerning slavery
+
+* would willingly risk my life though not my character to exalt my station
