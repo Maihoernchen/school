@@ -69,21 +69,58 @@
 45. WWWE [like a man on a mission, hamilton was wearing his glasses, I wrote the notes at the beginning of a song someone will sing for me, america you great unfinished symphony you sent for me, you let me make a difference, he aims his pistol at the sky, I hear wailing in the streets]
 46. WLWDWTYS [his financial system is a work of genius I couldnt undo it if i tried and I tried, he took our country from bankrupcy to prosperity, I hate to admit it but he doesnt get enough credit for all the credit he gave us, who keeps your name eliza, couldve done so much more]
 
+
+
+
+
+
+
 ### Impact
 
 * organize your information
 	* you need your right hand man back
 	* taken over writing all his correspondence
+	* I wrote my way to revolution
+* changes the game plays and he raises the stakes
+* lead a battalion
+	* almost died in a trench
+	* we're finally on the field
+	* and so the american experiment begins
+	* we negotiate the terms of surrender
+* nowhere is it [corruption] stronger than in albany [...] honestly thats why public service seems to be calling me
+	* I've seen injustice and ive corrected it
+* I wrote about the constituotion and defended it well
+	* hamilton wrote the other 51
+* own plan for a new form of government
 * protean creator of the coast guard
 * founder of the NY Post
+* destroyed president john adams
+* lost capital
+	* the virginians emerge with the nations capital
+	* sell NYC down the river
+	* it doesnt matter where you put the US-Capital
+	* you got more than you gave
 * financial system
+	* nothing less than government control
+	* if we're aggressive and competetive the union gets a boost
+	* unite colonies through more debt
+	* assume states debts and establish a national bank
+	* cause we'll have the banks we're in the same spot
 	* centralizing national credit and making american credit competetive
 	* unprecedented financial power, system he can shape
+	* I wrote financial systems into existence
 * bankrupcy to prosperity
 * cabinets fractured into factions
+	* pissed him off until we had a two party system
 * doubled the size of the government
+* ardently abuse his cabinet post
+* out of power / no office / have it all lose it all
 * its up to hamilton (Eo1800)
 
+
+* maddisons and hamiltons intention at constitutional convention 1787
+	* form a new form of government rather than update the existing one
+	* presidents hold their post for lifetime
 * reports were turned into acts for
 	* assumption of debt
 	* foundation of a national bank in NYC
@@ -94,6 +131,30 @@
 * foundation for dominant north in civil war
 * founded american economy
 
+### Career
+
+* charge of a trading charter
+* reading every treatise on the shelf
+* scholarship to kings college
+* seated at the right hand of the father
+* Hamilton faces and endless uphill climb
+* he takes and he takes and he keeps winning anyways
+* go home alexander
+* troops are waiting in the field for you
+* finished up my studies and I practiced law
+* alexander hamilton began to climb
+* practically perfected it
+* at the constitutional convention NY junior delegate
+* secretary, treasury
+* Adams fires Hamilton
+
+### Macbeth
+
+* they think me macbeth
+* jefferson is macduff
+* maddison is banquo
+* congress is birnam forest on its way to dunsinane
+
 ### Wealth status
 
 * poor as a child till teenager
@@ -101,39 +162,73 @@
 	* rich wife
 * rich as adult
 	* move uptown
+	* i paid him quartely
+	* my papers are orderly
+	* I kept a record of every check in my checkered history
+	* never spent a cent that wasnt mine
 
 ### Reputation
 
 * nathaniel green and henry knox wanted to hire you
 * enemies destroyed his rep
-* distroy his reputation
-* death mourned
+* you aggrevate our allies to the south
+* decorated var wet
+* destroy his reputation
+	* for purposes of improper speculation
+	* the reynolds pamphlet
+	* ruin their own life
+	* mortally ruined my prospects
+	* have not committed treason
+	* never gon be president now
+* death mourned - I hear wailing in the streets
 * this immigrant isnt somebody we chose - senats opinion
+* paranoid in evry paragraph how they perceive you
+* they dont like you
+* wall street thinks youre great, youll always be adored by the things you create
+* upstate people think youre crooked
 
 ### Political allies and enemies
 
+* fight the other founding fathers
 * Burr - friend to enemy
 	* Jefferson has beliefs burr has none
 	* amoral dangerous disgrace
 	* only stand for himself
+	* no one knows who you are or what you do
 * Maddison - ally to enemy
+	* joins forces with james maddison
+	* maddison is banquo
+	* youre in worse shape than the national debt is in
 * Adams - enemy
+	* John adams doenst have a real job anyway
+	* destroyed president john adams
 	* Sit down john
 * Jefferson - enemy
 	* see what I can do to him
+	* I have nowhere else to turn and basically begged me to join the fray
+	* jefferson is macduff
 * Washington - friend
-	* right hand man
+	* right hand man in and after war
 	* dependant on
+		* youre nothing without washington behind you
+		* as far as the people are concerned you have to serve
+	* was there presidential pressure to deliver?
+		* figure it out alexander
+		* you need to convince more folks
 	* must be nice to hav washington on your side
 
 ### Competences
 
 * skill with a quill, I wrote my way out, Ive been reading n writing, talks for six hours, write like youre runnign out of time
-* looking like a man on a mission
 * honor
 * tolerance for pain
+* hamiltons pace is relentless he wastes no time
+* hamilton doesnt hesitate, he exhibits no restraint
 * top notch brain
 * determined
+	* the man is non-stop
+	* looking like a man on a mission
+	* we need bold strokes
 * worlds you keep creating and erasing in your mind
 * ingenuitive
 * fluent in french
@@ -141,7 +236,9 @@
 	* knows what to do in a trench
 * resiliant
 * virtuosity
+* always so quick witted
 * quite the lawyer
+* host unto himself - as long as he can hold a pen he's a threat
 
 ### Vices
 
@@ -152,6 +249,13 @@
 * determined
 * short-tempered
 * he primps and preens
+* your pride will be the death of us all
+* he'll do what it takes to survive
+* you've married an icarus
+* obsessed with your legacy
+* assume youre the smartest in the room
+* always say what you believe
+	* every proclamation guarantess free ammunition for your enemies
 
 ### Habits
 
@@ -172,24 +276,37 @@
 
 ### Political Ideology / personal ambitions
 
-* freedom for all men
 * values beliefs
 * fighter for america
 	* wants to fight not write
 	* head full of fantasies of dying like a martyr
+	* I am more than willing to die
 	* fight until the war was won
-* revolutionary manumission abolitionist
-* lets hatch a plot blacker
+* seen injustice in the world and Ive corrected it
+* "betrayed" the french
+	* we'll be with you when you do
+	* the president will bring the nation to a brink of meddling in the middle of a military mess
+	* we signed a treaty with a king whos head is now in a basket
+	* if we try to fight in every revolution in the world we never stop
+* desperate for a cmd
+	* sir entrust me with a command
+	* if you gave me a troop of man I could fly above my station after the war
 * wish there was a war, join the revolution
 * may not live, gladly join fight
 * rise above my station
 * dont shoot people my son
 	* your mother cant take, you dont want this mans blood, shoot your pistol in the sky
-* couldve done so much more - concerning slavery
+* couldve done so much more
 * trying to do the best for the republic
+* now for a strong central democracy
+* we need bold strokes, we need this plan
+* I have to get this plan through congress
 * never agreed with jefferson once
-* wrote notes at the beginning of a song someone will sing for me
+* obsessed with your legacy
+	* I wanna built something thats gonna outlive me
+	* what if this bullet is my legacy
+	* this is the only way I can protect my legacy
+	* wrote notes at the beginning of a song someone will sing for me
 * america you sent for me, let me make a difference
 
 * would willingly risk my life though not my character to exalt my station
-* did help laurens in the creation of an all black battalion
