@@ -13,6 +13,6 @@
 * “It is early in the week.” not specific - ambiguity
 
 
-3. 1. RU(MS) [scratch that + following, I'm laughing in the face + following]
+3. 1. RU(MS) [I'm laughing in the face + following]
 6. FR [He'd had unravel + following, rather divisive than indecisive]
 8. RHM [as a kid - understand its the only way to]

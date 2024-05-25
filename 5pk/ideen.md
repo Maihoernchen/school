@@ -148,13 +148,6 @@
 * secretary, treasury
 * Adams fires Hamilton
 
-### Macbeth
-
-* they think me macbeth
-* jefferson is macduff
-* maddison is banquo
-* congress is birnam forest on its way to dunsinane
-
 ### Wealth status
 
 * poor as a child till teenager
@@ -217,52 +210,6 @@
 		* you need to convince more folks
 	* must be nice to hav washington on your side
 
-### Competences
-
-* skill with a quill, I wrote my way out, Ive been reading n writing, talks for six hours, write like youre runnign out of time
-* honor
-* tolerance for pain
-* hamiltons pace is relentless he wastes no time
-* hamilton doesnt hesitate, he exhibits no restraint
-* top notch brain
-* determined
-	* the man is non-stop
-	* looking like a man on a mission
-	* we need bold strokes
-* worlds you keep creating and erasing in your mind
-* ingenuitive
-* fluent in french
-* tactically brilliant
-	* knows what to do in a trench
-* resiliant
-* virtuosity
-* always so quick witted
-* quite the lawyer
-* host unto himself - as long as he can hold a pen he's a threat
-
-### Vices
-
-* obnoxious
-* arrogant
-* loudmouth
-* never satisfied
-* determined
-* short-tempered
-* he primps and preens
-* your pride will be the death of us all
-* he'll do what it takes to survive
-* you've married an icarus
-* obsessed with your legacy
-* assume youre the smartest in the room
-* always say what you believe
-	* every proclamation guarantess free ammunition for your enemies
-
-### Habits
-
-* use press
-* pseudonymical writing
-* worn opinion on his sleeve
-
 ### Modern Depiction
 
 * doenst get enough credit
@@ -276,7 +223,9 @@
 
 ### Political Ideology / personal ambitions
 
-* values beliefs
+* values beliefs more than inviviualism
+	* scratch that this is not a moment its the movement
+	* foes oppose do we take an honest stand we roll like moses claiming our promised land
 * fighter for america
 	* wants to fight not write
 	* head full of fantasies of dying like a martyr
